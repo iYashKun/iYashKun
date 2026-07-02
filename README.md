@@ -63,9 +63,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iYashKun&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=iYashKun&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -75,7 +75,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iYashKun&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -85,7 +85,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/iYashKun/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -95,16 +95,8 @@
 
 <p>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/iYashKun">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -113,11 +105,11 @@
 
 <div align="center">
 
-### 💭 Quote
+### Quote
 
 > *"First make it work. Then make it fast. Then make it beautiful."*
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=iYashKun&style=for-the-badge&color=blueviolet"/>
 
 ⭐ Thanks for visiting!
 
