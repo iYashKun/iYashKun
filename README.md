@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+%7C+JavaScript+Developer;Backend+API+Engineer;WebSocket+%26+Realtime+Systems;Always+Building+Something+Cool" />
+<img src="https://readme-typing-svg.demolab.com?font=Small+Caps&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Node.js+%7C+JavaScript+Developer;Backend+API+Engineer;WebSocket+%26+Realtime+Systems;Always+Building+Something+Cool" />
 
 </div>
 
