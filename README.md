@@ -8,20 +8,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```txt
-👨‍💻 Full Stack Developer
-⚡ Backend & Realtime Systems
-🌐 REST APIs • WebSockets • Automation
-🛠 Building scalable applications
-📚 Always learning new technologies
-☕ Coffee + Code = Happiness
+Full Stack Developer
+Backend & Realtime Systems
+REST APIs • WebSockets • Automation
+Building scalable applications
+Always learning new technologies
 ```
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -49,13 +48,12 @@
 
 ---
 
-## ⚙️ Current Focus
+## Current Focus
 
-* 🚀 High Performance APIs
-* 🔥 WebSocket Applications
-* 📡 Real-time Communication
-* 🤖 Automation
-* 🌍 Open Source
+* High Performance APIs
+* WebSocket Applications
+* Real-time Communication
+* Automation
 
 ---
 
