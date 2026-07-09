@@ -59,16 +59,6 @@
 
 ---
 
-## 🌎 Connect
-
-<p>
-
-
-
-</p>
-
----
-
 <div align="center">
 
 ### Quote
