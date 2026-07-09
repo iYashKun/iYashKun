@@ -10,12 +10,11 @@
 
 ## About Me
 
-```txt
-Full Stack Developer
-Backend & Realtime Systems
-REST APIs • WebSockets • Automation
-Building scalable applications
-Always learning new technologies
+* Full Stack Developer
+* Backend & Realtime Systems
+* REST APIs • WebSockets • Automation
+* Building scalable applications
+* Always learning new technologies
 ```
 
 ---
