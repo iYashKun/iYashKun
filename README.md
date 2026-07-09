@@ -46,15 +46,6 @@
 
 ---
 
-## Current Focus
-
-* High Performance APIs
-* WebSocket Applications
-* Real-time Communication
-* Automation
-
----
-
 <div align="center">
 
 ### Quote
