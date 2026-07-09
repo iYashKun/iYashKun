@@ -15,7 +15,6 @@
 * REST APIs • WebSockets • Automation
 * Building scalable applications
 * Always learning new technologies
-```
 
 ---
 
