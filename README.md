@@ -20,25 +20,25 @@
 
 ## Tech Stack
 
-### Languages
+### * Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,bash" />
 </p>
 
-### Backend
+### * Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,redis" />
 </p>
 
-### Frameworks & Libraries
+### * Frameworks & Libraries
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite" />
 </p>
 
-### DevOps & Tools
+### * DevOps & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,npm" />
