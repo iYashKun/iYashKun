@@ -20,7 +20,7 @@
 
 ## Tech Stack
 
-### * Languages
+* <b>Languages</b>
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,bash" />
