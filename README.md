@@ -26,19 +26,19 @@
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,bash" />
 </p>
 
-### * Backend
+* <b>Backend</b>
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,redis" />
 </p>
 
-### * Frameworks & Libraries
+* <b>Frameworks & Libraries</b>
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite" />
 </p>
 
-### * DevOps & Tools
+* <b>DevOps & Tools</b>
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,npm" />
