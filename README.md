@@ -40,7 +40,6 @@
 
 * <b>DevOps & Tools</b>
 
-<img src="https://skillicons.dev/icons?i=fastapi" /><p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,npm" />
 </p>
 
