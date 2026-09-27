@@ -32,7 +32,6 @@ jobs:
           mkdir -p _site
           cp .github/index.html _site/index.html
           cp .github/github.html _site/github.html
-          cp .github/test.html _site/test.html
 
           if [ -d assets ]; then cp -r assets _site/; fi
           if [ -d images ]; then cp -r images _site/; fi
