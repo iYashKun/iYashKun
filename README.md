@@ -1,3 +1,7 @@
+<div align="center"> <img src=".github/bob_web.png" width="8%"/> </div>
+
+<br>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hi,+I'm+Yash;Full+Stack+Developer;Backend+%26+Realtime+Systems+Engineer;Building+Scalable+Applications)](https://git.io/typing-svg)
